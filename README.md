@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 - 📫 &nbsp; How to reach me: [click here](mailto:alanneres10@gmail.com)
 
 ![skills](https://github-readme-stats.vercel.app/api?username=ner3s&show_icons=true&theme=dark&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ner3s&theme=dark&layout=compact)
